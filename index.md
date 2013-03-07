@@ -36,3 +36,12 @@ is an example of the Spring Web MVC application that has example tags
 and several controller response types as well as support for
 optimization of JS/CSS delivery.  This canonical example is intended
 to be a fast starting point for new web applications.
+
+## Spring Web Services Utility Classes
+
+The project at
+[https://github.com/kercheval/SpringWebServiceUtil](https://github.com/kercheval/SpringWebServiceUtil)
+is a utility project that contains controllers and classes to support
+statistics and the simple acquisition of timers, counters, thread
+traces and system/host information.  This is used by the canonical
+spring application.
